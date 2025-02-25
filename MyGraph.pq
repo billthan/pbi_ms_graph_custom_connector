@@ -76,7 +76,7 @@ MyGraph = [
             Scope = "User.Read.All ServicePrincipalEndpoint.Read.All Group.Read.All"
         ]
     ],
-    Label = "MPBSDP - LRC Microsoft Graph Connector"
+    Label = "Microsoft Graph Connector"
 ];
 
 //
