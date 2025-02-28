@@ -78,9 +78,6 @@
     <Compile Include="client_secret">
       <SubType>Content</SubType>
     </Compile>
-    <Content Include="MyGraph.query.pq">
-      <SubType>Code</SubType>
-    </Content>
     <Content Include="README.md">
       <SubType>Content</SubType>
     </Content>
